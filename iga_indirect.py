@@ -1,6 +1,7 @@
 """
 This is a modification of the Integrated Gradient Attack (IGA) (as implemented
-in DeepRobust) to enable influence attacks (i.e., those that do not directly
+in DeepRobust; see https://github.com/DSE-MSU/DeepRobust/blob/master/deeprobust/graph/targeted_attack/ig_attack.py)
+to enable influence attacks (i.e., those that do not directly
 modify the target's edges or attributes).This was used for the experiments in
 “Complex network effects on the robustness of graph convolutional networks” by
 Benjamin A. Miller, Kevin Chan, and Tina Eliassi-Rad, in Applied Network
