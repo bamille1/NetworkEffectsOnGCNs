@@ -12,10 +12,7 @@ expressed in this material are those of the authors and do not necessarily
 reflect theviews of the United States Air Force or Army Research Laboratory.
 
 Copyright (C) 2023
-Benjamin A. Miller [1], Kevin Chan [2], and Tina Eliassi-Rad [1]
-
-[1] Northeastern Univeristy
-[2] US Army Research Laboratory
+Benjamin A. Miller and Tina Eliassi-Rad
 
 The software is provided to you on an As-Is basis
 
